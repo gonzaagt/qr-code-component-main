@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -26,15 +25,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/gonzaagt/qr-code-component-main.git]
-
-## My process
+- Live  Solution: [https://qr-code-component-main-gonzaagt.vercel.app/]
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS
 - Flexbox
-
 
 ## Author
 
